@@ -96,7 +96,7 @@ teams to manage projects, tasks, members and collaboration.
 - 🔒 Authorization and membership validation
 - 📊 Structured backend REST APIs
 
-🔗 **Repository:** [View Project](YOUR_TEAMFLOW_REPOSITORY_URL)
+🔗 **Repository:** [View Project](https://github.com/Barathnathan/TeamFlow-Team-Collaboration-Platform.git)
 
 ---
 
@@ -116,7 +116,7 @@ context-aware questions from uploaded PDF documents.
 - 📚 Context-grounded responses
 - 🔗 RAG pipeline for reducing irrelevant responses
 
-🔗 **Repository:** [View Project](YOUR_RAG_REPOSITORY_URL)
+🔗 **Repository:** [View Project](https://github.com/Barathnathan/AI-Powered-Document-Question-Answering.git)
 
 ---
 
@@ -162,10 +162,10 @@ I regularly work with Data Structures and Algorithms using Java.
 ## 🤝 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/barath-nathan-s-10a56b372">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:barathnathan.s13@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
