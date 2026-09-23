@@ -1,16 +1,29 @@
-# 👋 Hi, I'm Barath Nathan S
+<h1 align="center">BARATH NATHAN S</h1>
 
-### Software Developer | Full-Stack Development | GenAI
+<p align="center">
+  <b>Software Developer | Full-Stack Development | GenAI</b>
+</p>
 
-I build full-stack web applications and AI-powered solutions with a focus on
-clean architecture, scalable APIs, and practical problem solving.
+<p align="center">
+  Building full-stack applications and AI-powered solutions with clean architecture,
+  scalable APIs, and practical problem solving.
+</p>
 
-I work with Java, Python, JavaScript, React, FastAPI, SQL, PostgreSQL and
-modern Generative AI technologies to turn ideas into functional applications.
+<hr>
 
----
+## PROFILE
 
-## 🚀 About Me
+Software Developer focused on building full-stack web applications and AI-powered solutions.
+
+I work with Java, Python, JavaScript, React, FastAPI, SQL, PostgreSQL and modern
+Generative AI technologies to build practical and reliable software applications.
+
+I enjoy designing clean APIs, developing scalable backend systems, building responsive
+interfaces, solving algorithmic problems, and working with AI-driven applications.
+
+<hr>
+
+## 🚀 ABOUT ME
 
 - 💻 Software Developer focused on full-stack application development
 - ⚙️ Build REST APIs and backend services using FastAPI
@@ -22,9 +35,9 @@ modern Generative AI technologies to turn ideas into functional applications.
 - 🧠 Work with Hugging Face models and document-based question answering
 - 🐳 Use Git, GitHub and Docker for development and deployment workflows
 
----
+<hr>
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 ### 💻 Languages
 
@@ -75,18 +88,19 @@ modern Generative AI technologies to turn ideas into functional applications.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+<hr>
 
-## 💼 Featured Projects
+## 💼 FEATURED PROJECTS
 
 ### 🔹 TeamFlow — Team Collaboration Platform
 
-A full-stack team workspace and project management platform designed for
-teams to manage projects, tasks, members and collaboration.
+A full-stack team workspace and project management platform designed for teams
+to manage projects, tasks, members and collaboration.
 
 **Tech Stack:** React.js • FastAPI • SQLAlchemy • PostgreSQL • JWT • WebSockets
 
 **Key Features**
+
 - 🔐 JWT-based authentication
 - 👥 Team and project management
 - 🛡️ Role-based access control
@@ -96,7 +110,8 @@ teams to manage projects, tasks, members and collaboration.
 - 🔒 Authorization and membership validation
 - 📊 Structured backend REST APIs
 
-🔗 **Repository:** [View Project](https://github.com/Barathnathan/TeamFlow-Team-Collaboration-Platform.git)
+🔗 **Repository:** 
+[View TeamFlow](https://github.com/Barathnathan/TeamFlow-Team-Collaboration-Platform)
 
 ---
 
@@ -108,6 +123,7 @@ context-aware questions from uploaded PDF documents.
 **Tech Stack:** Python • RAG • Gemini • Hugging Face • LangChain
 
 **Key Features**
+
 - 📄 PDF document processing
 - ✂️ Intelligent text chunking
 - 🧠 Embedding generation
@@ -116,15 +132,16 @@ context-aware questions from uploaded PDF documents.
 - 📚 Context-grounded responses
 - 🔗 RAG pipeline for reducing irrelevant responses
 
-🔗 **Repository:** [View Project](https://github.com/Barathnathan/AI-Powered-Document-Question-Answering.git)
+🔗 **Repository:** 
+[View AI Document Q&A](https://github.com/Barathnathan/AI-Powered-Question-Answering-using-Gemini-API-key-RAG-Systems-and-Hugging-Face-models)
 
----
+<hr>
 
-## 🧩 Problem Solving
+## 🧩 PROBLEM SOLVING
 
-I regularly work with Data Structures and Algorithms using Java.
+I work with Data Structures and Algorithms using Java.
 
-### Areas I work with
+### Areas
 
 - Arrays & Strings
 - Hashing
@@ -140,31 +157,32 @@ I regularly work with Data Structures and Algorithms using Java.
 - Dynamic Programming
 - Sorting & Searching
 
----
+<hr>
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Barathnathan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barathnathan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
+<hr>
 
-## 🔥 Contribution Streak
+## 🔥 CONTRIBUTION STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Barathnathan&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<hr>
 
-## 🤝 Connect With Me
+## 🤝 CONNECT WITH ME
 
 <p>
   <a href="https://www.linkedin.com/in/barath-nathan-s-10a56b372">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:barathnathan.s13@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -172,6 +190,10 @@ I regularly work with Data Structures and Algorithms using Java.
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 
-Feel free to explore my repositories and projects.
+<p align="center">
+  Feel free to explore my repositories and projects.
+</p>
