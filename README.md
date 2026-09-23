@@ -111,7 +111,7 @@ to manage projects, tasks, members and collaboration.
 - 📊 Structured backend REST APIs
 
 🔗 **Repository:** 
-[View TeamFlow](https://github.com/Barathnathan/TeamFlow-Team-Collaboration-Platform)
+[View Project](https://github.com/Barathnathan/TeamFlow-Team-Collaboration-Platform)
 
 ---
 
@@ -133,7 +133,7 @@ context-aware questions from uploaded PDF documents.
 - 🔗 RAG pipeline for reducing irrelevant responses
 
 🔗 **Repository:** 
-[View AI Document Q&A](https://github.com/Barathnathan/AI-Powered-Question-Answering-using-Gemini-API-key-RAG-Systems-and-Hugging-Face-models)
+[View Project](https://github.com/Barathnathan/AI-Powered-Question-Answering-using-Gemini-API-key-RAG-Systems-and-Hugging-Face-models)
 
 <hr>
 
@@ -156,15 +156,6 @@ I work with Data Structures and Algorithms using Java.
 - Recursion
 - Dynamic Programming
 - Sorting & Searching
-
-<hr>
-
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barathnathan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barathnathan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 <hr>
 
